@@ -1,0 +1,28 @@
+{
+  "name": "cycletime",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhuangxk/cycleTime.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhuangxk/cycleTime/issues"
+  },
+  "homepage": "https://github.com/zhuangxk/cycleTime#readme",
+  "dependencies": {
+    "dayjs": "^1.11.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.2"
+  }
+}
